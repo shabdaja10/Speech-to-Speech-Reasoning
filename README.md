@@ -1,4 +1,6 @@
-# Speech-to-Speech-Reasoning using 
+# Speech-to-Speech-Reasoning 
+
+Technologies used:
 1. Python Text-to-Speech
 2. Speech Recognition
 3. Speech-to-Speech
